@@ -1,0 +1,16 @@
+*.iws
+*.ipr
+*.iml
+.idea/
+.classpath
+.project
+.settings
+.svn/
+FarMenu.ini
+storage/
+target/
+overlays/
+*.class
+*.jar
+*.zip
+*.log
